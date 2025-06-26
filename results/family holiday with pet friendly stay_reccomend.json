@@ -1,0 +1,15 @@
+[
+    {
+        "destination": {
+            "name": "Sydney, Australia",
+            "currency_code": "AUD"
+        },
+        "listing": {
+            "title": "Harbour view haven in Birchgrove",
+            "pricePerNightInDestinationCurrency": 156,
+            "rating": 96.0
+        },
+        "reasonForRecommendation": "This listing is recommended for a family holiday with pet friendly stay because it offers amenities such as indoor fireplace, patio or balcony, garden or backyard and private entrance making your vacation comfortable while being able to bring along pets.",
+        "currencySymbol": "$"
+    }
+]

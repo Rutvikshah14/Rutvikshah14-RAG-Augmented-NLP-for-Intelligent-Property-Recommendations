@@ -1,0 +1,14 @@
+[
+    {
+        "recommendation": {
+            "listing_id": "2",
+            "name": "Luxury Oceanview Penthouse Dee Why Beach in Warringah,Sydney ",
+            "price_per_night": "$450.00",
+            "currency": "Australian Dollar"
+        },
+        "reasoning": {
+            "oceanView": "The listing offers a luxury oceanview penthouse with all the amenities required for an excellent stay.",
+            "affordability": "Compared to other listings, this option is more affordable and provides great value."
+        }
+    }
+]

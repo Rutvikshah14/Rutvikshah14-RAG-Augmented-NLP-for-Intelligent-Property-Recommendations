@@ -1,0 +1,16 @@
+[
+    {
+        "option": 1,
+        "reason": "This listing in Rio de Janeiro offers a duplex place with both pool and sauna facilities. It is the most expensive option but provides ample space for up to four guests.",
+        "price_in_usd": 790,
+        "currency": "BRL",
+        "rating": 98.0
+    },
+    {
+        "option": 5,
+        "reason": "This Sydney listing offers a private room with both hot tub and sauna facilities along with other amenities like gym, pool etc.",
+        "price_in_usd": 80,
+        "currency": "AUD",
+        "rating": 96.0
+    }
+]
